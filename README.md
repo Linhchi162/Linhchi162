@@ -28,8 +28,5 @@
 ### ✉ Connect with me via:
 
 <a href="https://github.com/Linhchi162" target="blank"><img align="center" src="https://img.shields.io/badge/-Linhchi162-1C1C1C?logo=github&logoColor=white"/></a>
-<a href="https://www.facebook.com/lil.cheeee/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinhChi-4267b2?logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/lychee____1111/" target="blank"><img align="center" src="https://img.shields.io/badge/-lychee____1111-F67A00?logo=instagram&logoColor=white" /></a>
-
 &nbsp;
 ![LinhChi's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhchi162&show_icons=true)
